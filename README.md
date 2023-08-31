@@ -1,4 +1,4 @@
-Hosted Link -
+Hosted Link - https://shweta-sharma-1009.github.io/Major-project6/
 
 UI -
 ![Screenshot (393)](https://github.com/shweta-sharma-1009/Major-project6/assets/128416925/c6b724f4-002d-443c-b24e-58626a26614c)
